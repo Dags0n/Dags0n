@@ -1,16 +1,21 @@
-### Hi there 👋
+<div style="text-align: center"> 
 
-<!--
-**Dags0n/Dags0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá, mundo! Eu sou Dagson!💡
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagson1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo1UUuXU0R%2BiFslf43DrDtA%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagson.g.01@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dags0n&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=Dags0n&theme=dark" /></td>
+    </tr>   
+  </table>
+</center>
+
+---
