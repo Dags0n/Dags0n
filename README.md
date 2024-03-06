@@ -21,13 +21,13 @@
 ### Linguagens, Frameworks e outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,bootstrap,py,haskell" />
+    <img src="https://skillicons.dev/icons?i=git,c,bootstrap" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ### Em aprendizado / Em breve
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,ts,angular,java,spring,react" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,ts,react" />
   </a>
 </p>
 
