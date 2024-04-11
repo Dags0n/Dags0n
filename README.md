@@ -12,7 +12,7 @@
   <table>
     <tr>
         <td><img width="500px" align="center" src="https://github-readme-stats.vercel.app/api?username=Dags0n&theme=dark" /></td>
-        <td><img width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dags0n&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dags0n&hide=html&layout=compact&theme=dark" /></td>
     </tr>   
   </table>
 
@@ -21,13 +21,13 @@
 ### Linguagens, Frameworks e outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" />
   </a>
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,bootstrap" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ### Em aprendizado / Em breve
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,ts,react" />
+    <img src="https://skillicons.dev/icons?i=ts,react" />
   </a>
 </p>
 
