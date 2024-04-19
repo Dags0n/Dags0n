@@ -18,24 +18,24 @@
 
 ---
 
-### Linguagens, Frameworks e outras tecnologias
+### Desenvolvimento Back-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,c,cpp" />
   </a>
 </p>
 
+### Desenvolvimento Front-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,ts,mui,html,css,bootstrap" />
   </a>
 </p>
 
-
-### Em aprendizado / Em breve
+### Outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react" />
+    <img src="https://skillicons.dev/icons?i=git,linux,haskell" />
   </a>
 </p>
 
@@ -43,9 +43,9 @@
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagson1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bo1UUuXU0R%2BiFslf43DrDtA%3D%3D)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagson.g.01@gmail.com)
+<a href="https://www.linkedin.com/in/dagson1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dagson.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+<a href="mailto:dagson.g.01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
 [![Followers](https://img.shields.io/github/followers/Dags0n?style=social)]()
 
