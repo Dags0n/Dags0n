@@ -1,4 +1,4 @@
- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=26&duration=4000&pause=1000&color=2788B3&center=true&random=false&width=435&lines=Ol%C3%A1%2C+mundo!+Eu+sou+Dagson!)](https://git.io/typing-svg)
+ # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=26&duration=4000&pause=1000&color=ffffff&center=true&random=false&width=435&lines=Ol%C3%A1%2C+mundo!+Eu+sou+Dagson!)](https://git.io/typing-svg)
 <ul style="font-family: Arial, sans-serif">
     <li>💻- Desenvolvedor Web Fullstack.</li>
     <li>🤖- Graduando em Tecnologia da Informação - UFRN;</li>
