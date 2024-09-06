@@ -28,14 +28,14 @@
 ### Desenvolvimento Front-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,ts,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
   </a>
 </p>
 
 ### Outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,haskell" />
+    <img src="https://skillicons.dev/icons?i=ts,git,linux,haskell" />
   </a>
 </p>
 
