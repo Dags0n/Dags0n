@@ -12,7 +12,7 @@
 ### Desenvolvimento Back-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,mysql,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,mysql,c,cpp" />
   </a>
 </p>
 
