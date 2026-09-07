@@ -19,7 +19,7 @@
 ### Desenvolvimento Front-end
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,vue,react,html,css,bootstrap" />
   </a>
 </p>
 
