@@ -26,7 +26,7 @@
 ### Outras tecnologias
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,git,linux,haskell,docker" />
+    <img src="https://skillicons.dev/icons?i=ts,git,linux,haskell,docker,k8s" />
   </a>
 </p>
 
